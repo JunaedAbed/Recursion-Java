@@ -1,6 +1,6 @@
 //Insertion Sort using recursion method
 
-public class Task2 {  
+public class InsertionSortRecusrion {  
     public static void main(String args[])  {  
         int array[] = {1,16,9,0,13,2};  
           
