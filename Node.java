@@ -1,9 +1,8 @@
-public class Node{
-    Object elem;
-    Node next;
-    
-    Node(Object e, Node n){
-        elem = e;
-        next = n;
-    }
+public class Node{   
+    Node next; 
+    int elem; 
+    Node(int e,Node n){ 
+        elem=e; 
+        next=n; 
+    }    
 }
