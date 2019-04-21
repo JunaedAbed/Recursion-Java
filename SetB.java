@@ -1,3 +1,10 @@
+//Print like this-
+//12345
+//1234
+//123
+//12
+//1
+
 public class SetB{
     public static void triangle(int i){
         if(i != 0){       
@@ -16,8 +23,3 @@ public class SetB{
         triangle(5);
     }
 }
-//12345
-//1234
-//123
-//12
-//1
