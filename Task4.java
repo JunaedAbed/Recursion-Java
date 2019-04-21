@@ -1,3 +1,5 @@
+//selection sort in linkedList
+
 class Task4 { 
     static Node head;
     static Node tail;//tail is going to change
