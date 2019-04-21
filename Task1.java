@@ -1,3 +1,5 @@
+/*Selection Sort using recursion*/
+
 class Task1 { 
     public static void main(String args[]) {  
         int array[] = {9,1,5,3,6,7}; 
@@ -5,7 +7,7 @@ class Task1 {
         selectionSort(array, array.length, 0); 
         printArray(array);
     }  
-    
+//finding minimum index    
     public static int minIndex(int a[], int i, int j) {  
         if (i == j)  
             return i;  
