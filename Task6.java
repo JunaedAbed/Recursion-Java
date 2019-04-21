@@ -1,3 +1,5 @@
+/*Binary Search using Recursion
+
 public class Task6{ 
     public static void main (String []args){ 
         int a[]={0,4,8,9,13,15,20,23,35}; 
